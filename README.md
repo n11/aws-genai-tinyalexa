@@ -1,5 +1,6 @@
 # aws-genai-tinyalexa
 
+~~~
 python3 -m venv .venv
 source .venv/bin/activate
 
@@ -16,3 +17,4 @@ pip install --upgrade setuptools wheel
 python3 ./tinyalexa.py
 
 deactivate
+~~~
